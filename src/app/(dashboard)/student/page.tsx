@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import Announcement from "@/Components/Announcement"
 import MyApp from "@/Components/reactCalendar"
 import Schedule from "@/Components/Schedule"
@@ -20,12 +20,6 @@ const studentPage = () => {
 
   )
 
-=======
-const studentPage = () => {
-  return (
-    <div className=''>studentPage</div>
-  )
->>>>>>> 5c3d957a8a9b99ab6127b7cb9f920b48c5ae2524
 }
 
 export default studentPage
