@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+<<<<<<< HEAD
         "djsdsxsgd",
         "Financechart",
         "ispum",
@@ -9,5 +10,11 @@
         "Usercard",
         "Usercharts",
         "xwkmxwxhebx"
+=======
+        "Adminpage",
+        "Loginpage",
+        "Parentpage",
+        "Studentpage"
+>>>>>>> 5c3d957a8a9b99ab6127b7cb9f920b48c5ae2524
     ]
 }

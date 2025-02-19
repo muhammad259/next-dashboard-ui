@@ -1,14 +1,19 @@
+<<<<<<< HEAD
 import Menu from "@/Components/Menu";
 import Navbar from "@/Components/Navbar";
 import Image from "next/image";
 import Link from "next/link";
 
 export default function RootLayout({
+=======
+export default function DashboardLayout({
+>>>>>>> 5c3d957a8a9b99ab6127b7cb9f920b48c5ae2524
     children,
   }: Readonly<{
     children: React.ReactNode;
   }>) {
     return (
+<<<<<<< HEAD
       <div className="h-screen flex">
         {/*LEFT*/}
         <div className="w-[14%] md:w-[8%] lg:w-[15%] xl:w-[14%] ">
@@ -28,3 +33,13 @@ export default function RootLayout({
       
     );
   }
+=======
+    <div className="h-screen flex">
+        {/* LEFT*/}
+        <div className="w-[14%] md:[16%] bg-red-200">l</div>
+        {/* right*/}
+        <div className="w-[86%] md:[84%] bg-blue-200">r</div>
+    </div>
+    );
+  };
+>>>>>>> 5c3d957a8a9b99ab6127b7cb9f920b48c5ae2524
