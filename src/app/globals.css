@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.color{
+    background: #ab3737 !important;
+}
+.react-calendar{
+     
+    color: #7e8c8c94 !important ;
+    background: #9cebdcf0   !important;
+   width: 100% !important;
+   border: none !important;
+}
+.react-calendar.hover{
+    background: #72aba0f0 !important;
+}
+
+.aria-label{
+    text-align: justify !important;
+    color: aqua !important;
+}
+.react-calendar__navigation__label{
+    font: bold !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: 700;
+}
