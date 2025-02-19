@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import Attendance from "@/Components/Attendance"
 import reactCalendar from "@/Components/reactCalendar"
 import Finance from "@/Components/Finance"
@@ -43,11 +43,7 @@ const adminPage = () => {
      <Announcement/>
      </div>
     </div>
-=======
-const adminPage = () => {
-  return (
-    <div className=''>adminPage</div>
->>>>>>> 5c3d957a8a9b99ab6127b7cb9f920b48c5ae2524
+
   )
 }
 
